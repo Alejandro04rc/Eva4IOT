@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "201792374296",
+    "firebase_url": "https://fir-aleymati-default-rtdb.firebaseio.com",
+    "project_id": "fir-aleymati",
+    "storage_bucket": "fir-aleymati.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201792374296:android:b6da87026fff569015656d",
+        "android_client_info": {
+          "package_name": "com.example.eva3aleymati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqs7U9nmdHQ24rgXZIsFfUx3lptXIlME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201792374296:android:d15e54bd95ff73ca15656d",
+        "android_client_info": {
+          "package_name": "com.example.eva4iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqs7U9nmdHQ24rgXZIsFfUx3lptXIlME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
